@@ -1,0 +1,9 @@
+--- Setup ---
+virtualenv -p /usr/bin/python pyode-env
+pip install pyode
+pip install pyopengl
+pip install pil
+
+Experiments for Hopping Journal:
+#2 for ELM Treatments
+#5 for FM Treatments
