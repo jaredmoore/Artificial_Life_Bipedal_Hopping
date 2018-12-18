@@ -1,0 +1,12 @@
+*.pyc
+*.DS_Store
+.dropbox
+*.out
+*.d
+*.dylib
+*.so
+*validator_logging*
+*fitnesses*
+*.o
+*.dat
+
